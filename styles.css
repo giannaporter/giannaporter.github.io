@@ -1,0 +1,67 @@
+body { background: LightCyan;
+	Color: MidnightBlue;
+	font-size: 12pt; 
+	font-weight: bold;
+	font-family: "Lobster", sans-serif; 
+	line-height: 150%;
+}
+
+h1 { font-size: 250%;
+	font-weight: bold;
+	color: MidnightBlue; 
+	text-align: center;
+}
+
+h3 { font-size: 150%; 
+	font-style: bold; 
+	color: light blue; 
+	font-family: "Walter Turncoat", sans-serif; 
+}
+
+nav li {
+	display: inline-block; 
+	border: 2px solid black; 
+	padding: 5px;
+	margin: 2px; 
+	background: LightCyan;
+	font-weight: bold;
+}
+
+a {
+	color:FireBrick;
+	text-decoration: none;
+}
+
+a:hover {
+	color:SteelBlue;
+}
+
+img {
+	border:5px #191970;
+	float: middle;
+}
+
+#Cover {
+	border:10px #191970;
+}
+
+#bentley {
+	width:100%; 
+	height:100%;
+}
+
+#leftbentley {
+	float:left;
+	display:inline-block;
+	width: 600px;
+	height: 100%;
+}
+
+#rightbentley {
+	float left;
+	display:inline-block;
+	width: 470px;
+	height: 100%;
+}
+	
+	
