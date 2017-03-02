@@ -2,8 +2,9 @@
 	
 body { background: LightCyan;
 	Color: MidnightBlue;
-	font-size: 16pt;  
-	font-family: "Lobster", sans-serif; 
+	font-size: 16pt; 
+	font-size: none;  
+	font-family: "Trebuchet MS", sans-serif; 
 	line-height: 150%;
 	
 }
@@ -11,7 +12,7 @@ body { background: LightCyan;
 #container { margin-left: 7%; margin-right: 7% }
 
 h1 { font-size: 250%;
-	font-weight: bold;
+	font-weight: none;
 	color: MidnightBlue; 
 	text-align: center;
 }
@@ -25,9 +26,9 @@ ul {
 	}
 
 h3 { font-size: 150%; 
-	font-style: bold; 
+	font-style: none; 
 	color: light blue; 
-	font-family: "Walter Turncoat", sans-serif; 
+	font-family: "Trebuchet MS", sans-serif; 
 }
 
 nav li {
