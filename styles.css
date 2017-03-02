@@ -1,16 +1,29 @@
+
+	
 body { background: LightCyan;
 	Color: MidnightBlue;
 	font-size: 18pt; 
 	font-weight: bold;
 	font-family: "Lobster", sans-serif; 
 	line-height: 150%;
+	
 }
+
+#container { margin-left: 7%; margin-right: 7% }
 
 h1 { font-size: 250%;
 	font-weight: bold;
 	color: MidnightBlue; 
 	text-align: center;
 }
+
+ul {
+	list-style-type: none;
+	border: 5px solid red; 
+	overflow: hidden;
+	width: 650px;
+	margin: 0px auto;
+	}
 
 h3 { font-size: 150%; 
 	font-style: bold; 
