@@ -1,6 +1,6 @@
 body { background: LightCyan;
 	Color: MidnightBlue;
-	font-size: 12pt; 
+	font-size: 18pt; 
 	font-weight: bold;
 	font-family: "Lobster", sans-serif; 
 	line-height: 150%;
@@ -25,6 +25,13 @@ nav li {
 	margin: 2px; 
 	background: LightCyan;
 	font-weight: bold;
+p {
+    margin-left: 20cm;
+}
+p  {
+    margin-right: 20cm;
+}
+	
 }
 
 a {
